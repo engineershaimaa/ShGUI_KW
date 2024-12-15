@@ -8,7 +8,7 @@ setup(
     long_description=open("README.md", "r", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     author="engineer shaimaa sileem ibrahim mohammed",
-    author_email="eng.shaimaa.sileem@example.com",
+    author_email="eng.shaimaa.sileem@gmail.com",
     url="https://github.com/engineershaimaa/ShGUI_KW",  # رابط المشروع (GitHub مثلاً)
     packages=find_packages(),
     include_package_data=True,

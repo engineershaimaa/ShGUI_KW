@@ -1,6 +1,4 @@
 from setuptools import setup, find_packages
-```python
-from setuptools import setup, find_packages
 setup(
     name="ShGUI_KW",
     version="1.0.0",  # رقم الإصدار
@@ -14,6 +12,9 @@ setup(
     include_package_data=True,
     install_requires=[
         "Pillow>=9.0.0"  # مكتبة Pillow كاعتماد
+        "tkinter",
+        "turtle",
+        
     ],
     classifiers=[
         "Programming Language :: Python :: 3",

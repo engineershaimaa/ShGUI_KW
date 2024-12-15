@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 ```python
 from setuptools import setup, find_packages
 setup(
-    name="ShGUI",
+    name="ShGUI_KW",
     version="1.0.0",  # رقم الإصدار
     description="A simple Python GUI library for beginners using tkinter and PIL & turtle",
     long_description=open("README.md", "r", encoding="utf-8").read(),

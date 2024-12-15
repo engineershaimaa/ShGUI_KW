@@ -9,7 +9,7 @@ setup(
     long_description_content_type="text/markdown",
     author="engineer shaimaa sileem ibrahim mohammed",
     author_email="eng.shaimaa.sileem@example.com",
-    url="https://github.com/engineershaimaa/ShGUI",  # رابط المشروع (GitHub مثلاً)
+    url="https://github.com/engineershaimaa/ShGUI_KW",  # رابط المشروع (GitHub مثلاً)
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
